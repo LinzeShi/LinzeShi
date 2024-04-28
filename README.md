@@ -1,6 +1,6 @@
 👋 Hi there, I’m @LinzeShi
 
-👀 I'm deeply passionate about technology and innovation, especially in the realms of distributed systems, backend development, and cloud computing. My journey in tech began at Xi'an Jiaotong University, where I earned my degree in Automation Engineering, and it has taken me to exciting roles at leading tech companies like Microsoft and ByteDance.
+👀 I'm deeply passionate about technology and innovation, especially in the realms of distributed systems, backend development, and cloud computing. My journey in tech began at Xi'an Jiaotong University, where I earned my degree in Automation Engineering, and it has taken me to exciting roles at leading tech companies.
 
 🌱 I’m currently a Master of Science in Information Networking student at Carnegie Mellon University, honing my skills in advanced cloud architectures and exploring cutting-edge AI technologies. My academic and professional pursuits are driven by a commitment to understanding and leveraging technology to solve real-world problems.
 
