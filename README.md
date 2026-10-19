@@ -1,3 +1,1 @@
-# Linze Shi
-
-My background is in computer science at Carnegie Mellon University. I'm interested in AI research and the systems behind modern machine learning, especially efficient inference and AI infrastructure.
+I work on LLM inference and the infrastructure around it, mostly in [vLLM](https://github.com/vllm-project/vllm) and [vLLM-Omni](https://github.com/vllm-project/vllm-omni), on teacher serving for on-policy distillation, pooling, and multimodal runtimes. Previously at Meta, I built an LLM-agent system for data quality, made its inference cheaper, and moved latency-sensitive real-time jobs to C++. My background is in computer science at Carnegie Mellon University.
